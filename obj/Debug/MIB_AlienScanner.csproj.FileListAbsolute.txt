@@ -1,0 +1,10 @@
+C:\Users\oosalih\Documents\MIB_AlienScanner\MIB_AlienScanner\obj\Debug\MIB_AlienScanner.csproj.AssemblyReference.cache
+C:\Users\oosalih\Documents\MIB_AlienScanner\MIB_AlienScanner\obj\Debug\MIB_AlienScanner.Form1.resources
+C:\Users\oosalih\Documents\MIB_AlienScanner\MIB_AlienScanner\obj\Debug\MIB_AlienScanner.Properties.Resources.resources
+C:\Users\oosalih\Documents\MIB_AlienScanner\MIB_AlienScanner\obj\Debug\MIB_AlienScanner.csproj.GenerateResource.cache
+C:\Users\oosalih\Documents\MIB_AlienScanner\MIB_AlienScanner\obj\Debug\MIB_AlienScanner.csproj.CoreCompileInputs.cache
+C:\Users\oosalih\Documents\MIB_AlienScanner\MIB_AlienScanner\bin\Debug\MIB_AlienScanner.exe.config
+C:\Users\oosalih\Documents\MIB_AlienScanner\MIB_AlienScanner\bin\Debug\MIB_AlienScanner.exe
+C:\Users\oosalih\Documents\MIB_AlienScanner\MIB_AlienScanner\bin\Debug\MIB_AlienScanner.pdb
+C:\Users\oosalih\Documents\MIB_AlienScanner\MIB_AlienScanner\obj\Debug\MIB_AlienScanner.exe
+C:\Users\oosalih\Documents\MIB_AlienScanner\MIB_AlienScanner\obj\Debug\MIB_AlienScanner.pdb
